@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <property name="LOG_PATH" value="C:\Users\SandeepShinde\Downloads\demo"/>
+    <!-- FILE APPENDER -->
+    <appender name="FILE"
+              class="ch.qos.logback.core.rolling.RollingFileAppender">
+
+        <file>${LOG_PATH}/application.log</file>
+
+        <rollingPolicy
+                class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>
+                ${LOG_PATH}/application-%d{yyyy-MM-dd}.log
+            </fileNamePattern>
+            <maxHistory>30</maxHistory>
+        </rollingPolicy>
+
+        <encoder>
+            <pattern>
+                %d{yyyy-MM-dd HH:mm:ss} %-5level
+                [%X{traceId}]
+                %logger - %msg%n
+            </pattern>
+        </encoder>
+    </appender>
+
+    <!-- ASYNC APPENDER -->
+    <appender name="ASYNC"
+              class="ch.qos.logback.classic.AsyncAppender">
+        <queueSize>5000</queueSize>
+        <discardingThreshold>0</discardingThreshold>
+        <appender-ref ref="FILE"/>
+    </appender>
+
+    <root level="INFO">
+        <appender-ref ref="ASYNC"/>
+    </root>
+</configuration>

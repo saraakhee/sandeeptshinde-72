@@ -1,0 +1,516 @@
+2026-03-08 13:33:38 INFO 
+                []
+                com.example.demo.SpringbootexpApplicationTests - Starting SpringbootexpApplicationTests using Java 22.0.2 with PID 13724 (started by SandeepShinde in C:\Users\SandeepShinde\Downloads\demo)
+2026-03-08 13:33:38 INFO 
+                []
+                com.example.demo.SpringbootexpApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2026-03-08 13:33:40 INFO 
+                []
+                org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2026-03-08 13:33:40 INFO 
+                []
+                com.example.demo.SpringbootexpApplicationTests - Started SpringbootexpApplicationTests in 2.839 seconds (process running for 3.766)
+2026-03-08 13:34:56 INFO 
+                []
+                com.example.demo.Application - Starting Application using Java 17.0.12 with PID 40604 (C:\Users\SandeepShinde\Downloads\demo\target\classes started by SandeepShinde in C:\Users\SandeepShinde\Downloads\demo)
+2026-03-08 13:34:56 INFO 
+                []
+                com.example.demo.Application - No active profile set, falling back to 1 default profile: "default"
+2026-03-08 13:35:05 INFO 
+                []
+                org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 9090 (http)
+2026-03-08 13:35:05 INFO 
+                []
+                org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9090"]
+2026-03-08 13:35:05 INFO 
+                []
+                org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-03-08 13:35:05 INFO 
+                []
+                org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2026-03-08 13:35:05 INFO 
+                []
+                org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-03-08 13:35:05 INFO 
+                []
+                org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 8631 ms
+2026-03-08 13:35:09 INFO 
+                []
+                org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2026-03-08 13:35:09 INFO 
+                []
+                org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9090"]
+2026-03-08 13:35:09 INFO 
+                []
+                org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 9090 (http) with context path ''
+2026-03-08 13:35:09 INFO 
+                []
+                com.example.demo.Application - Started Application in 14.546 seconds (process running for 17.451)
+2026-03-08 13:37:28 INFO 
+                []
+                com.example.demo.Application - Starting Application using Java 17.0.12 with PID 24296 (C:\Users\SandeepShinde\Downloads\demo\target\classes started by SandeepShinde in C:\Users\SandeepShinde\Downloads\demo)
+2026-03-08 13:37:28 INFO 
+                []
+                com.example.demo.Application - No active profile set, falling back to 1 default profile: "default"
+2026-03-08 13:37:30 INFO 
+                []
+                org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 9090 (http)
+2026-03-08 13:37:30 INFO 
+                []
+                org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9090"]
+2026-03-08 13:37:30 INFO 
+                []
+                org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-03-08 13:37:30 INFO 
+                []
+                org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2026-03-08 13:37:30 INFO 
+                []
+                org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-03-08 13:37:30 INFO 
+                []
+                org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1993 ms
+2026-03-08 13:37:31 INFO 
+                []
+                org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2026-03-08 13:37:31 INFO 
+                []
+                org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9090"]
+2026-03-08 13:37:31 INFO 
+                []
+                org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 9090 (http) with context path ''
+2026-03-08 13:37:31 INFO 
+                []
+                com.example.demo.Application - Started Application in 4.302 seconds (process running for 6.99)
+2026-03-08 13:42:28 INFO 
+                []
+                com.example.demo.Application - Starting Application using Java 17.0.12 with PID 12048 (C:\Users\SandeepShinde\Downloads\demo\target\classes started by SandeepShinde in C:\Users\SandeepShinde\Downloads\demo)
+2026-03-08 13:42:28 INFO 
+                []
+                com.example.demo.Application - No active profile set, falling back to 1 default profile: "default"
+2026-03-08 13:42:30 INFO 
+                []
+                org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 9090 (http)
+2026-03-08 13:42:30 INFO 
+                []
+                org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9090"]
+2026-03-08 13:42:30 INFO 
+                []
+                org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-03-08 13:42:30 INFO 
+                []
+                org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2026-03-08 13:42:30 INFO 
+                []
+                org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-03-08 13:42:30 INFO 
+                []
+                org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2062 ms
+2026-03-08 13:42:31 INFO 
+                []
+                org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2026-03-08 13:42:31 INFO 
+                []
+                org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9090"]
+2026-03-08 13:42:31 INFO 
+                []
+                org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 9090 (http) with context path ''
+2026-03-08 13:42:32 INFO 
+                []
+                com.example.demo.Application - Started Application in 4.427 seconds (process running for 7.056)
+2026-03-08 13:42:40 INFO 
+                []
+                org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-03-08 13:42:40 INFO 
+                []
+                org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-03-08 13:42:40 INFO 
+                []
+                org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2026-03-08 13:42:41 INFO 
+                []
+                com.example.demo.logger.TraceIdFilter - >>> TraceIdFilter invoked
+2026-03-08 13:42:41 INFO 
+                []
+                com.example.demo.logger.TraceIdFilter - >>> TraceIdFilter invoked
+2026-03-08 13:42:53 INFO 
+                []
+                com.example.demo.logger.TraceIdFilter - >>> TraceIdFilter invoked
+2026-03-08 13:43:32 INFO 
+                []
+                com.example.demo.logger.TraceIdFilter - >>> TraceIdFilter invoked
+2026-03-08 13:43:57 INFO 
+                []
+                com.example.demo.logger.TraceIdFilter - >>> TraceIdFilter invoked
+2026-03-08 13:44:37 INFO 
+                []
+                com.example.demo.Application - Starting Application using Java 17.0.12 with PID 26976 (C:\Users\SandeepShinde\Downloads\demo\target\classes started by SandeepShinde in C:\Users\SandeepShinde\Downloads\demo)
+2026-03-08 13:44:37 INFO 
+                []
+                com.example.demo.Application - No active profile set, falling back to 1 default profile: "default"
+2026-03-08 13:44:39 INFO 
+                []
+                org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 9090 (http)
+2026-03-08 13:44:39 INFO 
+                []
+                org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9090"]
+2026-03-08 13:44:39 INFO 
+                []
+                org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-03-08 13:44:39 INFO 
+                []
+                org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2026-03-08 13:44:39 INFO 
+                []
+                org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-03-08 13:44:39 INFO 
+                []
+                org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2160 ms
+2026-03-08 13:44:40 INFO 
+                []
+                org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2026-03-08 13:44:40 INFO 
+                []
+                org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9090"]
+2026-03-08 13:44:40 INFO 
+                []
+                org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 9090 (http) with context path ''
+2026-03-08 13:44:40 INFO 
+                []
+                com.example.demo.Application - Started Application in 4.574 seconds (process running for 7.197)
+2026-03-08 13:46:25 INFO 
+                []
+                org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-03-08 13:46:25 INFO 
+                []
+                org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-03-08 13:46:25 INFO 
+                []
+                org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2026-03-08 13:46:26 INFO 
+                []
+                com.example.demo.logger.TraceIdFilter - >>> TraceIdFilter invoked
+2026-03-08 13:46:35 INFO 
+                []
+                com.example.demo.logger.TraceIdFilter - >>> TraceIdFilter invoked
+2026-03-08 13:47:01 INFO 
+                []
+                com.example.demo.logger.TraceIdFilter - >>> TraceIdFilter invoked
+2026-03-08 13:47:13 INFO 
+                []
+                com.example.demo.logger.TraceIdFilter - >>> TraceIdFilter invoked
+2026-03-08 13:47:31 INFO 
+                []
+                com.example.demo.logger.TraceIdFilter - >>> TraceIdFilter invoked
+2026-03-08 13:47:44 INFO 
+                []
+                com.example.demo.logger.TraceIdFilter - >>> TraceIdFilter invoked
+2026-03-08 13:47:55 INFO 
+                []
+                com.example.demo.logger.TraceIdFilter - >>> TraceIdFilter invoked
+2026-03-08 13:48:19 INFO 
+                []
+                com.example.demo.logger.TraceIdFilter - >>> TraceIdFilter invoked
+2026-03-08 13:48:30 INFO 
+                []
+                com.example.demo.logger.TraceIdFilter - >>> TraceIdFilter invoked
+2026-03-08 13:48:38 INFO 
+                []
+                com.example.demo.logger.TraceIdFilter - >>> TraceIdFilter invoked
+2026-03-08 13:49:07 INFO 
+                []
+                com.example.demo.Application - Starting Application using Java 17.0.12 with PID 33668 (C:\Users\SandeepShinde\Downloads\demo\target\classes started by SandeepShinde in C:\Users\SandeepShinde\Downloads\demo)
+2026-03-08 13:49:07 INFO 
+                []
+                com.example.demo.Application - No active profile set, falling back to 1 default profile: "default"
+2026-03-08 13:49:16 INFO 
+                []
+                org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 9090 (http)
+2026-03-08 13:49:16 INFO 
+                []
+                org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9090"]
+2026-03-08 13:49:16 INFO 
+                []
+                org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-03-08 13:49:16 INFO 
+                []
+                org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2026-03-08 13:49:16 INFO 
+                []
+                org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-03-08 13:49:16 INFO 
+                []
+                org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 8500 ms
+2026-03-08 13:49:21 INFO 
+                []
+                org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver - Exposing 3 endpoint(s) beneath base path '/actuator'
+2026-03-08 13:49:21 INFO 
+                []
+                org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9090"]
+2026-03-08 13:49:22 INFO 
+                []
+                org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 9090 (http) with context path ''
+2026-03-08 13:49:22 INFO 
+                []
+                com.example.demo.Application - Started Application in 18.576 seconds (process running for 21.218)
+2026-03-08 13:49:23 INFO 
+                []
+                org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-03-08 13:49:23 INFO 
+                []
+                org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-03-08 13:49:23 INFO 
+                []
+                org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2026-03-08 13:49:23 INFO 
+                []
+                com.example.demo.logger.TraceIdFilter - >>> TraceIdFilter invoked
+2026-03-08 13:49:42 INFO 
+                []
+                com.example.demo.logger.TraceIdFilter - >>> TraceIdFilter invoked
+2026-03-08 13:50:06 INFO 
+                []
+                com.example.demo.logger.TraceIdFilter - >>> TraceIdFilter invoked
+2026-03-08 13:50:39 INFO 
+                []
+                com.example.demo.Application - Starting Application using Java 17.0.12 with PID 45868 (C:\Users\SandeepShinde\Downloads\demo\target\classes started by SandeepShinde in C:\Users\SandeepShinde\Downloads\demo)
+2026-03-08 13:50:39 INFO 
+                []
+                com.example.demo.Application - No active profile set, falling back to 1 default profile: "default"
+2026-03-08 13:50:49 INFO 
+                []
+                org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 9090 (http)
+2026-03-08 13:50:49 INFO 
+                []
+                org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9090"]
+2026-03-08 13:50:49 INFO 
+                []
+                org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-03-08 13:50:49 INFO 
+                []
+                org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2026-03-08 13:50:49 INFO 
+                []
+                org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-03-08 13:50:49 INFO 
+                []
+                org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 9747 ms
+2026-03-08 13:50:51 INFO 
+                []
+                org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver - Exposing 13 endpoint(s) beneath base path '/actuator'
+2026-03-08 13:50:51 INFO 
+                []
+                org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9090"]
+2026-03-08 13:50:51 INFO 
+                []
+                org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 9090 (http) with context path ''
+2026-03-08 13:50:51 INFO 
+                []
+                com.example.demo.Application - Started Application in 15.408 seconds (process running for 18.117)
+2026-03-08 13:50:54 INFO 
+                []
+                org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-03-08 13:50:54 INFO 
+                []
+                org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-03-08 13:50:54 INFO 
+                []
+                org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2026-03-08 13:50:54 INFO 
+                []
+                com.example.demo.logger.TraceIdFilter - >>> TraceIdFilter invoked
+2026-03-08 21:39:56 INFO 
+                []
+                com.example.demo.SpringbootexpApplicationTests - Starting SpringbootexpApplicationTests using Java 22.0.2 with PID 46316 (started by SandeepShinde in C:\Users\SandeepShinde\Downloads\demo)
+2026-03-08 21:39:56 INFO 
+                []
+                com.example.demo.SpringbootexpApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2026-03-08 21:40:00 INFO 
+                []
+                org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver - Exposing 13 endpoint(s) beneath base path '/actuator'
+2026-03-08 21:40:01 INFO 
+                []
+                com.example.demo.SpringbootexpApplicationTests - Started SpringbootexpApplicationTests in 5.145 seconds (process running for 6.718)
+2026-03-08 21:42:00 INFO 
+                []
+                com.example.demo.Application - Starting Application using Java 17.0.12 with PID 35088 (C:\Users\SandeepShinde\Downloads\demo\target\classes started by SandeepShinde in C:\Users\SandeepShinde\Downloads\demo)
+2026-03-08 21:42:00 INFO 
+                []
+                com.example.demo.Application - No active profile set, falling back to 1 default profile: "default"
+2026-03-08 21:42:06 INFO 
+                []
+                org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 9090 (http)
+2026-03-08 21:42:06 INFO 
+                []
+                org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9090"]
+2026-03-08 21:42:06 INFO 
+                []
+                org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-03-08 21:42:06 INFO 
+                []
+                org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2026-03-08 21:42:07 INFO 
+                []
+                org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-03-08 21:42:07 INFO 
+                []
+                org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 5969 ms
+2026-03-08 21:42:11 INFO 
+                []
+                org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver - Exposing 13 endpoint(s) beneath base path '/actuator'
+2026-03-08 21:42:12 INFO 
+                []
+                org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9090"]
+2026-03-08 21:42:12 INFO 
+                []
+                org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 9090 (http) with context path ''
+2026-03-08 21:42:12 INFO 
+                []
+                com.example.demo.Application - Started Application in 13.185 seconds (process running for 17.917)
+2026-03-08 22:11:57 INFO 
+                []
+                org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-03-08 22:11:57 INFO 
+                []
+                org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-03-08 22:11:57 INFO 
+                []
+                org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2026-03-08 22:11:57 INFO 
+                []
+                com.example.demo.logger.TraceIdFilter - >>> TraceIdFilter invoked
+2026-03-08 22:15:15 INFO 
+                []
+                com.example.demo.logger.TraceIdFilter - >>> TraceIdFilter invoked
+2026-03-08 22:15:54 INFO 
+                []
+                com.example.demo.logger.TraceIdFilter - >>> TraceIdFilter invoked
+2026-03-08 22:19:28 INFO 
+                []
+                com.example.demo.logger.TraceIdFilter - >>> TraceIdFilter invoked
+2026-03-08 22:19:47 INFO 
+                []
+                com.example.demo.logger.TraceIdFilter - >>> TraceIdFilter invoked
+2026-03-08 22:20:01 INFO 
+                []
+                com.example.demo.logger.TraceIdFilter - >>> TraceIdFilter invoked
+2026-03-08 22:20:35 INFO 
+                []
+                com.example.demo.Application - Starting Application using Java 17.0.12 with PID 30224 (C:\Users\SandeepShinde\Downloads\demo\target\classes started by SandeepShinde in C:\Users\SandeepShinde\Downloads\demo)
+2026-03-08 22:20:35 INFO 
+                []
+                com.example.demo.Application - No active profile set, falling back to 1 default profile: "default"
+2026-03-08 22:20:41 INFO 
+                []
+                org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 9090 (http)
+2026-03-08 22:20:41 INFO 
+                []
+                org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9090"]
+2026-03-08 22:20:41 INFO 
+                []
+                org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-03-08 22:20:41 INFO 
+                []
+                org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2026-03-08 22:20:41 INFO 
+                []
+                org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-03-08 22:20:41 INFO 
+                []
+                org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 5817 ms
+2026-03-08 22:20:46 INFO 
+                []
+                org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver - Exposing 13 endpoint(s) beneath base path '/actuator'
+2026-03-08 22:20:47 INFO 
+                []
+                org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9090"]
+2026-03-08 22:20:47 INFO 
+                []
+                org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 9090 (http) with context path ''
+2026-03-08 22:20:47 INFO 
+                []
+                com.example.demo.Application - Started Application in 14.775 seconds (process running for 19.869)
+2026-03-08 22:23:24 INFO 
+                []
+                org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-03-08 22:23:24 INFO 
+                []
+                org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-03-08 22:23:24 INFO 
+                []
+                org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2026-03-08 22:23:24 INFO 
+                []
+                com.example.demo.logger.TraceIdFilter - >>> TraceIdFilter invoked
+2026-03-08 22:23:39 INFO 
+                []
+                com.example.demo.logger.TraceIdFilter - >>> TraceIdFilter invoked
+2026-03-08 22:25:34 INFO 
+                []
+                com.example.demo.logger.TraceIdFilter - >>> TraceIdFilter invoked
+2026-03-08 22:26:54 INFO 
+                []
+                com.example.demo.SpringbootexpApplicationTests - Starting SpringbootexpApplicationTests using Java 22.0.2 with PID 41508 (started by SandeepShinde in C:\Users\SandeepShinde\Downloads\demo)
+2026-03-08 22:26:54 INFO 
+                []
+                com.example.demo.SpringbootexpApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2026-03-08 22:27:03 INFO 
+                []
+                org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver - Exposing 13 endpoint(s) beneath base path '/actuator'
+2026-03-08 22:27:03 INFO 
+                []
+                com.example.demo.SpringbootexpApplicationTests - Started SpringbootexpApplicationTests in 10.319 seconds (process running for 11.899)
+2026-03-08 22:36:45 INFO 
+                []
+                com.example.demo.Application - Starting Application using Java 17.0.12 with PID 40972 (C:\Users\SandeepShinde\Downloads\demo\target\classes started by SandeepShinde in C:\Users\SandeepShinde\Downloads\demo)
+2026-03-08 22:36:45 INFO 
+                []
+                com.example.demo.Application - No active profile set, falling back to 1 default profile: "default"
+2026-03-08 22:36:49 INFO 
+                []
+                org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 9090 (http)
+2026-03-08 22:36:49 INFO 
+                []
+                org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9090"]
+2026-03-08 22:36:49 INFO 
+                []
+                org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-03-08 22:36:49 INFO 
+                []
+                org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2026-03-08 22:36:49 INFO 
+                []
+                org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-03-08 22:36:49 INFO 
+                []
+                org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3828 ms
+2026-03-08 22:36:52 INFO 
+                []
+                org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver - Exposing 13 endpoint(s) beneath base path '/actuator'
+2026-03-08 22:36:52 INFO 
+                []
+                org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9090"]
+2026-03-08 22:36:52 INFO 
+                []
+                org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 9090 (http) with context path ''
+2026-03-08 22:36:52 INFO 
+                []
+                com.example.demo.Application - Started Application in 9.603 seconds (process running for 15.473)
+2026-03-08 22:37:21 INFO 
+                []
+                org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-03-08 22:37:21 INFO 
+                []
+                org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-03-08 22:37:21 INFO 
+                []
+                org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2026-03-08 22:37:21 INFO 
+                []
+                com.example.demo.logger.TraceIdFilter - >>> TraceIdFilter invoked
+2026-03-08 22:38:17 INFO 
+                []
+                com.example.demo.logger.TraceIdFilter - >>> TraceIdFilter invoked
+2026-03-08 22:38:36 INFO 
+                []
+                com.example.demo.logger.TraceIdFilter - >>> TraceIdFilter invoked
